@@ -20,9 +20,9 @@ Make sure [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downlo
 	java -version
 	python --version
 
-Download, unpack and link Apache Cassandra (tested with 4.0-beta4)
+Download, unpack and link Apache Cassandra (tested with 4.0-rc1)
 
-	curl -O https://downloads.apache.org/cassandra/4.0-beta4/apache-cassandra-4.0-rc1-bin.tar.gz
+	curl -O https://downloads.apache.org/cassandra/4.0-rc1/apache-cassandra-4.0-rc1-bin.tar.gz
 
 	tar xvfz apache-cassandra-4.0-rc1-bin.tar.gz
 
